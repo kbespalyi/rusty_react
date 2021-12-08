@@ -1,0 +1,6 @@
+/build
+/target
+/dist
+/pkg
+Cargo.lock
+node_modules
